@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/SendMailLogger",
+    "name": "tsyama/cakephp-send-mail-logger",
     "description": "SendMailLogger plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
